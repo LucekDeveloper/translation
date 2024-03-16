@@ -24,6 +24,9 @@
         "KEYWORDS": "Osobisty profil użytkownika"
       },
       "IMPORT_EXPORT_TITLE": "Import i eksport",
+      "EXPORT_IMPORT": {
+        "KEYWORDS": "Eksport Backup Eksport Roam Dynalist Logseq Notion Evernote Obsidian"
+      },
       "NAVIGATION_TITLE": "Nawigacja",
       "NAVIGATION": {
         "KEYWORDS": "Eksport i Kopia zapasowa Kosz Zobacz Usunięte Rem Import Baza Wiedzy Zobacz Wszystkie Karty Pobierz dzienną kopie zapasową zaawansowane ustawienia usuń wszystko Rem"
@@ -39,7 +42,73 @@
       "DANGER_ZONE_TITLE": "Strefa zagrożenia",
       "PRIVACY_NOTE": "Prywatność: Przeczytaj naszą<policyLink> Polityka prywatności</policyLink> lub zmień ustawienia w naszym<hubLink> Centrum prywatności</hubLink> .",
       "DANGER_ZONE": {
-        "TITLE": "Strefa Zagrożenia"
+        "TITLE": "Strefa Zagrożenia",
+        "KEYWORDS": "synchronizuj loguj usuń konto reset opis postępu reset wprowadzenie zaawansowanych ustawień konta"
+      },
+      "NOTIFICATIONS": {
+        "TITLE": "Powiadomienia o seriach mobilnych",
+        "DESCRIPTION": "Wysyłaj mobilne przypomnienia push o codziennej passie fiszek. Przypomnienia pojawiają się codziennie o 18:00 w Twojej lokalnej strefie czasowej."
+      },
+      "SYNCING": {
+        "TITLE": "Synchronizowanie",
+        "KEYWORDS": "Wymuś synchronizację obrazów i plików PDF"
+      },
+      "VERSION": {
+        "TITLE": "Wersja aplikacji",
+        "KEYWORDS": "wersja"
+      },
+      "SUPPORT": {
+        "TITLE": "Wsparcie",
+        "KEYWORDS": "wsparcie ticket włącz pomoc"
+      },
+      "PRIVACY": {
+        "TITLE": "Prywatność",
+        "KEYWORDS": "Prywatność"
+      }
+    },
+    "FLASHCARDS": {
+      "AI": {
+        "ENABLE": {
+          "TITLE": "Włącz funkcje AI",
+          "DESCRIPTION": "Korzystaj z autouzupełniania, oceniania i generowania fiszek w oparciu o sztuczną inteligencję. Fragmenty Twoich notatek zostaną wysłane do OpenAI, jeśli będziesz korzystać z wielu funkcji AI. Znajdź politykę prywatności OpenAI na https://openai.com/policies/privacy-policy."
+        },
+        "OPENAI_KEY": {
+          "TITLE": "Klucz API OpenAI",
+          "DESCRIPTION": "Jeśli przekroczysz miesięczny limit żądań AI, możesz zarejestrować się w celu uzyskania klucza API na stronie https://platform.openai.com/account/api-keys i wprowadzić go tutaj, aby zapłacić za własne użycie. Należy pamiętać, że jest to funkcja w wersji beta i może zostać usunięta w dowolnym momencie."
+        }
+      },
+      "DAILY_TARGET": {
+        "MAXIMUM_DAILY_TARGET": {
+          "TITLE": "Maksymalny dzienny cel",
+          "DESCRIPTION": "Ogranicz liczbę fiszek RemNote poprosi Cię o ćwiczenie, aby osiągnąć dzienny cel przy tej wartości."
+        },
+        "TODAYS_TARGET": "Dzisiejszy cel:",
+        "TODAYS_TARGET_EXPLANATION": "RemNote stara się ustawić Twój dzienny cel w taki sposób, że jeśli osiągniesz go każdego dnia, wykonasz wszystkie karty do przeglądu w ciągu najbliższych 7 dni. Jednak dzienny cel nigdy nie będzie większy niż maksimum ustawione powyżej."
+      },
+      "GENERAL": {
+        "RESET_ALL": {
+          "TITLE": "Zresetuj wszystkie ustawienia fiszek do wartości domyślnych",
+          "DESCRIPTION": "Zresetuj wszystkie ustawienia fiszek do wartości domyślnych.",
+          "CONFIRM_MESSAGE": "Czy na pewno chcesz zresetować wszystkie ustawienia fiszek do wartości domyślnych?"
+        },
+        "NEW_CARDS_PER_DAY": {
+          "TITLE": "Maksymalna liczba nowych kart dziennie",
+          "DESCRIPTION": "Codziennie dodawaj maksymalnie tyle nowo utworzonych fiszek do swojej kolejki fiszek. W ten sposób nowe karty będą pojawiać się w Twojej kolejce ze stałą stawką dzienną, a nie gigantyczną partią."
+        },
+        "STALE_CARDS_PER_DAY": {
+          "TITLE": "Maksymalna liczba nieaktualnych kart dziennie",
+          "DESCRIPTION": "Każdego dnia wprowadzaj ponownie maksymalnie tyle nieaktualnych fiszek do swojej kolejki fiszek. Nieaktualne karty to takie, które są tymczasowo wstrzymywane z kolejki, ponieważ nie uczyłeś się ich przez długi czas i ponowne uczenie się ich wszystkich na raz byłoby wyczerpujące."
+        },
+        "LEECH_THRESHOLD": {
+          "DESCRIPTION": "Pijawki to trudne karty, których ciągle się uczysz, a potem znowu zapominasz. Jeśli naciśniesz przycisk „zapomniałem” na karcie więcej razy, ostrzeżemy Cię, abyś mógł dowiedzieć się, dlaczego masz problemy i rozwiązać problem. Ustaw tę opcję na wyższe wartości, aby rzadziej wyświetlać ostrzeżenie o pijawce."
+        },
+        "LEARN_AHEAD_LIMIT": {
+          "TITLE": "Naucz się limitu wyprzedzania",
+          "DESCRIPTION": "Kiedy dojdziesz do końca kolejki, RemNote wyświetli Ci karty do określonej liczby minut przed terminem, tak abyś nie otrzymał kart do zapłaty ponownie natychmiast po zakończeniu kolejki."
+        },
+        "AUTOPLAY_MEDIA": {
+          "TITLE": "Automatyczne odtwarzanie multimediów"
+        }
       }
     }
   }
