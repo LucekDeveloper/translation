@@ -1,0 +1,46 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Język",
+    "TRANSLATION_INFO_SETTINGS": "Tłumaczenie jest nadal w toku; zobaczysz mieszankę języka angielskiego i wybranego języka.<br> Możesz nam pomóc w tłumaczeniu, czytając<guideLink> instruktaż</guideLink> a następnie skorzystaj z naszego<editorLink> edytor web</editorLink> ."
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Stwórz",
+      "REMOVE": "Usuń",
+      "DELETE": "Usuń",
+      "EDIT": "Edytuj",
+      "DUPLICATE": "Duplikuj",
+      "APPLY": "Stosować",
+      "UPDATE": "Aktualizacja",
+      "VIEW": "Zobacz",
+      "HIDE": "Ukryj"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Profil",
+      "MY_PROFILE": "Mój Profil",
+      "PROFILE": {
+        "KEYWORDS": "Osobisty profil użytkownika"
+      },
+      "IMPORT_EXPORT_TITLE": "Import i eksport",
+      "NAVIGATION_TITLE": "Nawigacja",
+      "NAVIGATION": {
+        "KEYWORDS": "Eksport i Kopia zapasowa Kosz Zobacz Usunięte Rem Import Baza Wiedzy Zobacz Wszystkie Karty Pobierz dzienną kopie zapasową zaawansowane ustawienia usuń wszystko Rem"
+      },
+      "AUTHENTICATION_TITLE": "Autoryzacja",
+      "AUTHENTICATION": {
+        "KEYWORDS": "Wyloguj się Wyloguj się Metoda logowania Google Dodaj Rozłącz Zaloguj się Zarejestruj się"
+      },
+      "ADVANCED_TITLE": "Zaawansowane ustawienia",
+      "ADVANCED": {
+        "KEYWORDS": "Wsparcie połącz ponownie szukaj napraw błąd"
+      },
+      "DANGER_ZONE_TITLE": "Strefa zagrożenia",
+      "PRIVACY_NOTE": "Prywatność: Przeczytaj naszą<policyLink> Polityka prywatności</policyLink> lub zmień ustawienia w naszym<hubLink> Centrum prywatności</hubLink> .",
+      "DANGER_ZONE": {
+        "TITLE": "Strefa Zagrożenia"
+      }
+    }
+  }
+}
